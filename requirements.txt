@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python-headless
+deepface
+retina-face
+sqlalchemy
+numpy
+pillow
+tensorflow-cpu
